@@ -31,8 +31,9 @@ Each truck starts and ends at a distribution center and may serve multiple shops
 
 ## 📊 Results
 - Tested with 10+10 shops due to free CPLEX constraint limits
-- **CPLEX** achieved optimal cost: 193,500  
-- **GA** (best case): 204,780 (~5.8% deviation)
+- **CPLEX** achieved optimal cost: 426219.00
+- **GA** (best case): 447143.00 
+- Deviation = 4.91%
 - Taguchi tuning significantly improved GA performance
 
 ## 📚 Citation
